@@ -12,7 +12,7 @@ This cheatsheet provides a quick reference for core terminal commands.
   - `cd ..`: Move up one directory.
   - `cd ~`: Navigate to the user's home directory.
 - `open [file]`: Opens a file
-- `clear` or control + `l` = clears the screen
+- `clear` or `Ctrl` + `l`: Clears the screen
 
 ## File and Directory Manipulation
 
